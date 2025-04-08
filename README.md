@@ -24,7 +24,8 @@ This is the **Backend** repository for the **My Account** project. Built using *
 
 ---
 
-## 🚀 Use
+## 🚀 Setup and installation
+  - npm install ( to install the dependencies )
 
   ### .env
   - DATABASE_TYPE
