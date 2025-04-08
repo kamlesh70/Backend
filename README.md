@@ -12,6 +12,12 @@ This is the **Backend** repository for the **My Account** project. Built using *
 
 ---
 
+## 📄 Prerequisites
+  -  Node.js >= 22.x
+  - PostgreSQL database configured
+
+---
+
 ## 🗃️ Database Structure ( These are managed via the shared ORM library and PostgreSQL database )
 - Users
 - Settings
